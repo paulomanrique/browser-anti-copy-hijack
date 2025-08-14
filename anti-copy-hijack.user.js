@@ -14,6 +14,7 @@
 // @match        https://www.poder360.com.br/*
 // @match        https://agenciabrasil.ebc.com.br/*
 // @match        https://www.nexojornal.com.br/*
+// @match        https://www.indiatimes.com
 // @icon         https://raw.githubusercontent.com/paulomanrique/browser-anti-copy-hijack/master/icon.png
 // @grant        none
 // @run-at       document-start

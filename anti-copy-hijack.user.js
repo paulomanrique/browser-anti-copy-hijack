@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Browser Anti-Copy Hijack
 // @namespace    https://github.com/paulomanrique/browser-anti-copy-hijack
-// @version      1.1
+// @version      1.2
 // @description  Prevent websites from injecting unwanted content into your clipboard when copying text.
 // @author       Paulo Manrique
 // @match        https://*.uol.com.br/*
